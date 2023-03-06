@@ -1,0 +1,32 @@
+[
+    {
+        "img" : "https://source.unsplash.com/random/sig=1",
+        "name" : "On The Ground",
+        "price" : 500,
+        "brand" : "H&M"
+    },
+    {
+        "img" : "https://source.unsplash.com/random/sig=2",
+        "name" : "Summer Side",
+        "price" : 600,
+        "brand" : "Nike"
+    },
+    {
+        "img" : "https://source.unsplash.com/random/sig=3",
+        "name": "Winter Snow",
+        "price": 399,
+        "brand": "Adidas"
+    },
+    {
+        "img" : "https://source.unsplash.com/random/sig=1",
+        "name" : "On The Ground",
+        "price" : 500,
+        "brand" : "H&M"
+    },
+    {
+        "img" : "https://source.unsplash.com/random/sig=2",
+        "name" : "Summer Side",
+        "price" : 600,
+        "brand" : "Nike"
+    }
+]
